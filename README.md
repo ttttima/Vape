@@ -156,3 +156,54 @@ Config System	Not Started
 Profiles	Not Started
 Friends / Ignore	Not Started
 Notifications	Not Started
+
+
+## UI Components
+
+### Basic Components
+
+- `Button` — clickable button
+- `Checkbox` — boolean checkbox
+- `Toggle` — on/off switch
+- `Slider` — numeric value slider
+- `Dropdown` — single-option selection
+- `MultiDropdown` — multiple-option selection
+- `ComboBox` — searchable option selector
+- `TextField` — text input
+- `SearchBar` — search input
+- `ColorPicker` — color selection
+- `Keybind` — keyboard key binding
+- `Label` — text label
+- `Icon` — icon component
+- `Image` — image component
+- `Separator` — visual separator
+
+### Layout Components
+
+- `Panel` — basic UI panel
+- `Container` — component container
+- `ScrollPanel` — scrollable container
+- `Window` — main UI window
+- `Sidebar` — navigation sidebar
+- `Tab` — tab navigation
+- `Category` — module category
+- `ModuleCard` — module representation
+- `ModuleList` — list of modules
+- `SettingsPanel` — module settings container
+
+### Navigation Components
+
+- `NavigationBar` — navigation bar
+- `SearchBar` — module search
+- `CategorySelector` — category selection
+- `ConfigSelector` — configuration selection
+- `ProfileSelector` — profile selection
+
+### Overlay Components
+
+- `Tooltip` — contextual information
+- `Notification` — notification message
+- `Popup` — temporary popup
+- `Modal` — modal dialog
+- `ContextMenu` — right-click menu
+- `Dialog` — confirmation/input dialog
